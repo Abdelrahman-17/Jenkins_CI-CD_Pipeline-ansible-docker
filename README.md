@@ -13,6 +13,6 @@ to see
 Click here:54.190.10.76  
 
 
-<video controls src="https://github.com/Abdelrahman-17/Jenkins_CI-CD_Pipeline-ansible-docker/blob/main/record%20of%20project.mp4"></video>
+<video  src="https://github.com/Abdelrahman-17/Jenkins_CI-CD_Pipeline-ansible-docker/blob/main/record%20of%20project.mp4"></video>
 
 
