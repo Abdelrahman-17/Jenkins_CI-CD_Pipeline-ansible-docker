@@ -15,4 +15,8 @@ Click here:54.190.10.76
 
 <video  src="https://github.com/Abdelrahman-17/Jenkins_CI-CD_Pipeline-ansible-docker/blob/main/record%20of%20project.mp4"></video>
 
+![sadfs](https://github.com/Abdelrahman-17/Jenkins_CI-CD_Pipeline-ansible-docker/blob/main/CICD%20using%20jenkins%20ansible%26docker%20(1).png)
 
+
+
+https://github.com/mohamedsamirspot/CICD-Jenkins-SonarQube-Docker-AWS/assets/71722372/575b30dc-8729-4eb8-933f-43f2ccd95f86
