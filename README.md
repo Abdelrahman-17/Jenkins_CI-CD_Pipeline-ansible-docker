@@ -9,6 +9,10 @@ Click here:54.190.10.76
 
 
 
-![sadfs](https://github.com/Abdelrahman-17/Jenkins_CI-CD_Pipeline-ansible-docker/blob/main/CICD%20using%20jenkins%20ansible%26docker%20(1).png)
+![CICD using jenkins ansible docker (2)](https://github.com/Abdelrahman-17/Jenkins_CI-CD_Pipeline-ansible-docker/assets/83679041/f3b5ed32-5376-45b9-b673-81345eb2b13c)
 
-https://github.com/Abdelrahman-17/Jenkins_CI-CD_Pipeline-ansible-docker/blob/main/record%20of%20project
+
+
+
+https://github.com/Abdelrahman-17/Jenkins_CI-CD_Pipeline-ansible-docker/assets/83679041/e3007618-b574-4834-99bc-a94a0344f450
+
