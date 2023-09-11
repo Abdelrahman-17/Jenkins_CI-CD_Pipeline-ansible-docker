@@ -19,4 +19,4 @@ Click here:54.190.10.76
 
 
 
-https://github.com/mohamedsamirspot/CICD-Jenkins-SonarQube-Docker-AWS/assets/71722372/575b30dc-8729-4eb8-933f-43f2ccd95f86
+https://github.com/Abdelrahman-17/Jenkins_CI-CD_Pipeline-ansible-docker/blob/main/record%20of%20project.mp4
