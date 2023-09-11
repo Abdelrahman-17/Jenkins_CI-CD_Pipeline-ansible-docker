@@ -11,3 +11,6 @@ we will create CI/CD Pipeline using Github Jenkins Ansible and Docker we will pu
 
 to see
 Click here:54.190.10.76  
+
+
+https://github.com/Abdelrahman-17/Jenkins_CI-CD_Pipeline-ansible-docker/blob/main/record%20of%20project.mp4
